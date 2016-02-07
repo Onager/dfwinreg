@@ -1,4 +1,4 @@
-Source: dfwinreg
+Source: python-dfwinreg
 Section: python
 Priority: extra
 Maintainer: dfWinReg development team <log2timeline-dev@googlegroups.com>
